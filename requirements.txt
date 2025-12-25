@@ -3,3 +3,5 @@ pandas
 pulp
 requests
 numpy
+scikit-learn
+xgboost
